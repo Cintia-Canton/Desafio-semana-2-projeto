@@ -1,0 +1,109 @@
+html, body {
+    margin: 0px;
+}
+#imagem_fundo {
+    background: url("Imagens/fundo-2.jpg");
+    height: 600px;
+    text-align: center;
+    background-image: cover;
+}
+#Título {
+    color: white ;
+    padding-top: 3%;
+    font-size: 45px;
+   
+}
+#Subtítulo {
+    color: white;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 25%;
+    margin-top: 3px solid white;
+    margin-left: 3px 3px black;
+}
+
+body {
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+}
+h4 {
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h3 { 
+    color: black;
+    margin-left: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    font-style: bold;
+    text-align: left;
+}
+#Botão-ação {
+    color: yellow;
+    border: 2px black solid;
+    padding: 15px 15px 15px 15px;
+    //topo, esquerda, baixo, direita
+}
+#Introdução {
+    background-color: #f7f7f7;
+    padding: 20px;
+    padding-top: 20px;
+}
+#Metas. {
+    padding: 20px;
+}
+#Desigualdade {
+    background-color: #f7f7f7;
+}
+p {
+    color:black;
+    text-align: unset;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.borda {
+    align-items: center;
+    border: 7px gray solid;
+    padding: 2px;
+}
+#imagem {
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+    border: 3px gray solid;
+    padding: 1px;
+}
+#Limagem {
+    margin-top: 6px;
+}
+#Salário {
+    margin-left: 20px;
+    margin-right: 20px;
+    float: right;
+    border: gray solid;
+    padding: 1px;
+    margin-top: -12px;
+}
+#Referência {
+    font-size: 13px;
+}
+#referências {
+    background-color: #f7f7f7;
+}
+#ranking {
+    float: left;
+    border: gray solid;
+    padding: 1px;
+    margin-left: 40px;
+    margin-right: 20px;
+    margin-top: -6px;
+}
+#Autor {
+    margin-left: 20px;
+    font-size: 15px;
+    margin-top: 40px;
+}
